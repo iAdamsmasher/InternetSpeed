@@ -1,0 +1,11 @@
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\bin\Debug\InternetSpeedTest.exe.config
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\bin\Debug\InternetSpeedTest.exe
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\bin\Debug\InternetSpeedTest.pdb
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.Properties.Resources.resources
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.csproj.GenerateResource.cache
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.csproj.CoreCompileInputs.cache
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.exe
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.pdb
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.FrmMain.resources
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.FrmTest.resources
+C:\DevelopmentProjects\InternetSpeedTest\InternetSpeedTest\obj\Debug\InternetSpeedTest.csproj.AssemblyReference.cache
